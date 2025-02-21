@@ -1,1 +1,1 @@
-yo yo
+**APROBACIÓN DE CREDITO**
