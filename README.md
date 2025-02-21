@@ -14,7 +14,7 @@ Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza mode
 - [Relación economica](url)
 - [Modelos](url)
 
-**Instalación de librerias**
+**#Instalación de librerias**
 
 # Instalación silenciosa de librerías
 !pip install -q pandas
