@@ -12,7 +12,7 @@ Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza mode
 - [Descripción](url)
 - [Instalación de librerias](url)
 - [Objetivos](url)
-- [Relación economica](url)
+- [Relación economica](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#relaci%C3%B3n-economica)
 - [Modelos](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#modelos)
 
 # Descripción
