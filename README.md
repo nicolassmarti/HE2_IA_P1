@@ -72,8 +72,8 @@ Para garantizar una *comparación robusta*, se implementaron y evaluaron cinco m
 
 # Autores
 
-Nicolás Martínez
-Angela Aparicio
-Marcelo Yepes
-Andrés Ballén
+- Nicolás Martínez
+- Angela Aparicio
+- Marcelo Yepes
+- Andrés Ballén
 
