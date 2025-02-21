@@ -1,22 +1,22 @@
-**Predicción de aprobación de credito**
+#Predicción de aprobación de credito
 
 ¡Bienvenido a al *Proyecto de Predicción de Aceptación de Crédito*!  
 Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza modelos de **Machine Learning* para predecir la aceptación o rechazo de solicitudes de crédito. Nuestro objetivo es optimizar la evaluación de riesgos para *CTBC Bank*, mejorando la eficiencia y precisión en la aprobación de préstamos.
 
-**Descripción**
+#Descripción
 
 
 
-**Indice**
+#Indice
 
 - [Instalación de librerias](url)
 - [Objetivos](url)
 - [Relación economica](url)
 - [Modelos](url)
 
-**#Instalación de librerias**
+#Instalación de librerias
 
-# Instalación silenciosa de librerías
+
 !pip install -q pandas
 !pip install -q numpy
 !pip install -q scipy
@@ -32,11 +32,15 @@ Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza mode
 !pip install -q datasets
 !pip install -q fsspec==2024.10.0
 
-**Objetivo**
+#Objetivo
 
+Optimizar la evaluación del riesgo crediticio: Mejorar la precisión y rapidez en la toma de decisiones al predecir el resultado de las solicitudes.
 
+Automatizar el proceso de análisis: Reducir la intervención manual mediante la creación de un pipeline que integre desde la limpieza y preprocesamiento de datos hasta la evaluación del modelo.
 
-**Relación economica**
+Extraer insights relevantes: Identificar qué variables tienen mayor influencia en la aprobación de créditos, permitiendo ajustar las políticas de riesgo del banco.
+
+#Relación economica
 
 1. **Optimización del Crédito y Crecimiento Económico**
 Facilitación del acceso al crédito: Un sistema más preciso de evaluación crediticia permite que más individuos y empresas accedan a financiamiento adecuado a su perfil de riesgo. Esto impulsa el consumo, la inversión y el crecimiento económico.
@@ -54,7 +58,7 @@ Fomento del emprendimiento: Pequeñas y medianas empresas (PyMEs) pueden benefic
 Identificación de patrones de consumo y endeudamiento: Con el análisis de datos, se pueden identificar tendencias económicas en el uso del crédito, lo que puede ser útil para bancos, inversionistas y responsables de políticas económicas.
 Segmentación del mercado financiero: La información obtenida puede ser utilizada para diseñar productos financieros más adecuados a cada segmento de la población.
 
-**Modelos**
+#Modelos
 
 Para garantizar una *comparación robusta*, se implementaron y evaluaron cinco modelos:  
 1. *Random Forest* 🌳 – Conjunto de árboles de decisión con alta precisión e interpretabilidad.  
