@@ -45,19 +45,19 @@ Extraer insights relevantes: Identificar qué variables tienen mayor influencia 
 
 # Relación economica
 
-1. **Optimización del Crédito y Crecimiento Económico**
+1. **Optimización del Crédito y Crecimiento Económico**: 
 Facilitación del acceso al crédito: Un sistema más preciso de evaluación crediticia permite que más individuos y empresas accedan a financiamiento adecuado a su perfil de riesgo. Esto impulsa el consumo, la inversión y el crecimiento económico.
 Reducción de la asimetría de información: En la economía, la asimetría de información es un problema central en los mercados financieros. Un modelo supervisado bien diseñado ayuda a mitigar este problema al evaluar con mayor precisión la capacidad de pago de los solicitantes.
-2. **Eficiencia del Mercado Financiero**
+2. **Eficiencia del Mercado Financiero**: 
 Mejora en la asignación de recursos: Un sistema de aprobación de crédito más eficiente asegura que los fondos sean asignados a individuos y empresas con mayor probabilidad de pago, evitando pérdidas y aumentando la rentabilidad del banco.
 Reducción del riesgo de incumplimiento: Al predecir de manera más efectiva qué clientes pueden incumplir sus pagos, el banco puede ajustar sus tasas de interés y políticas de préstamo, promoviendo un sistema financiero más estable.
-3. **Impacto en la Política Monetaria y Financiera**
+3. **Impacto en la Política Monetaria y Financiera**: 
 Efecto en la oferta monetaria: Si el banco optimiza la concesión de créditos, puede modificar su política de préstamos en respuesta a cambios en las tasas de interés fijadas por el banco central, alineándose con las estrategias de política monetaria.
 Estabilidad del sistema financiero: Una mejor evaluación del riesgo crediticio reduce la probabilidad de crisis financieras derivadas de impagos masivos, lo que contribuye a la estabilidad macroeconómica.
-4. **Inclusión Financiera y Desarrollo Económico**
+4. **Inclusión Financiera y Desarrollo Económico**: 
 Acceso al crédito para poblaciones sub-bancarizadas: Un modelo más eficiente podría reducir sesgos y permitir que más personas sin historial crediticio accedan a financiamiento.
 Fomento del emprendimiento: Pequeñas y medianas empresas (PyMEs) pueden beneficiarse al obtener acceso más rápido y preciso a financiamiento, lo que impulsa la innovación y el empleo.
-5. **Análisis Económico de los Datos**
+5. **Análisis Económico de los Datos**: 
 Identificación de patrones de consumo y endeudamiento: Con el análisis de datos, se pueden identificar tendencias económicas en el uso del crédito, lo que puede ser útil para bancos, inversionistas y responsables de políticas económicas.
 Segmentación del mercado financiero: La información obtenida puede ser utilizada para diseñar productos financieros más adecuados a cada segmento de la población.
 
