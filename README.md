@@ -70,3 +70,10 @@ Para garantizar una *comparación robusta*, se implementaron y evaluaron cinco m
 4. *Support Vector Classifier (SVC - SVM)* 📈 – Encuentra la frontera óptima de decisión para la clasificación.  
 5. *PCA + KNN* 🔄 – Reduce la dimensionalidad antes de aplicar KNN para mayor eficiencia.
 
+# Autores
+
+Nicolás Martínez
+Angela Aparicio
+Marcelo Yepes
+Andrés Ballén
+
