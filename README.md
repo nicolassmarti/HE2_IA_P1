@@ -9,14 +9,18 @@ Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza mode
 
 # Indice
 
-- [Descripción](url)
+- [Descripción]([url](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#descripci%C3%B3n))
 - [Instalación de librerias](url)
 - [Objetivos](url)
 - [Relación economica](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#relaci%C3%B3n-economica)
 - [Modelos](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#modelos)
 
 # Descripción
+El proyecto Predicción de Aceptación de Crédito - CCB tiene como objetivo desarrollar un sistema basado en Machine Learning para mejorar la evaluación del riesgo crediticio en CTBC Bank, una institución financiera internacional. A través del análisis de datos históricos de solicitudes de crédito, implementamos modelos de aprendizaje supervisado para predecir con mayor precisión la aprobación o rechazo de nuevas solicitudes.
 
+En la actualidad, CTBC Bank enfrenta desafíos en la optimización de su sistema de evaluación crediticia, el cual debe ser eficiente, preciso y ágil en la clasificación de perfiles de riesgo. La solución propuesta por Chigüiros Consulting Group (CCB) busca automatizar y mejorar este proceso, utilizando algoritmos avanzados que permitan una toma de decisiones informada y basada en datos.
+
+A lo largo del proyecto, se comparan cinco modelos de Machine Learning para determinar cuál ofrece el mejor rendimiento en términos de precisión, interpretabilidad y eficiencia computacional.
 # Instalación de librerias
 
 
