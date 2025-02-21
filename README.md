@@ -9,14 +9,32 @@ Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza mode
 
 **Indice**
 
--o* [Instalación de librerias](url)
--o* [Objetivos](url)
--o* [Relación economica](url)
--o* [Modelos](url)
+- [Instalación de librerias](url)
+- [Objetivos](url)
+- [Relación economica](url)
+- [Modelos](url)
 
 **Instalación de librerias**
 
+# Instalación silenciosa de librerías
+!pip install -q pandas
+!pip install -q numpy
+!pip install -q scipy
+!pip install -q matplotlib
+!pip install -q seaborn
+!pip install -q plotly
+!pip install -q yellowbrick
+!pip install -q scikit-learn
+!pip install -q imbalanced-learn
+!pip install -q tqdm
+!pip install -q joblib
+!pip install -q huggingface_hub
+!pip install -q datasets
+!pip install -q fsspec==2024.10.0
+
 **Objetivo**
+
+
 
 **Relación economica**
 
