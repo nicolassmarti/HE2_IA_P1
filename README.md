@@ -11,7 +11,7 @@ Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza mode
 
 - [Descripción](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#descripci%C3%B3n)
 - [Instalación de librerias](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#instalaci%C3%B3n-de-librerias)
-- [Objetivos](url)
+- [Objetivos](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#objetivo)
 - [Relación economica](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#relaci%C3%B3n-economica)
 - [Modelos](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#modelos)
 
