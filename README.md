@@ -9,7 +9,7 @@ Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza mode
 
 # Indice
 
-- [Descripción]([url](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#descripci%C3%B3n))
+- [Descripción]((https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#descripci%C3%B3n))
 - [Instalación de librerias](url)
 - [Objetivos](url)
 - [Relación economica](https://github.com/nicolassmarti/HE2_IA_P1/blob/main/README.md#relaci%C3%B3n-economica)
