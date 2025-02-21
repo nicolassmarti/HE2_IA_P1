@@ -17,20 +17,20 @@ Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza mode
 # Instalación de librerias
 
 
--!pip install -q pandas
--!pip install -q numpy
--!pip install -q scipy
--!pip install -q matplotlib
--!pip install -q seaborn
--!pip install -q plotly
--!pip install -q yellowbrick
--!pip install -q scikit-learn
--!pip install -q imbalanced-learn
--!pip install -q tqdm
--!pip install -q joblib
--!pip install -q huggingface_hub
--!pip install -q datasets
--!pip install -q fsspec==2024.10.0
+- !pip install -q pandas
+- !pip install -q numpy
+- !pip install -q scipy
+- !pip install -q matplotlib
+- !pip install -q seaborn
+- !pip install -q plotly
+- !pip install -q yellowbrick
+- !pip install -q scikit-learn
+- !pip install -q imbalanced-learn
+- !pip install -q tqdm
+- !pip install -q joblib
+- !pip install -q huggingface_hub
+- !pip install -q datasets
+- !pip install -q fsspec==2024.10.0
 
 # Objetivo
 
