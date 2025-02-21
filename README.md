@@ -13,7 +13,7 @@ Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza mode
 - [Instalación de librerias](url)
 - [Objetivos](url)
 - [Relación economica](url)
-- [Modelos](url)
+- [Modelos](# Modelos)
 
 # Descripción
 
