@@ -9,10 +9,10 @@ Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza mode
 
 **Indice**
 
-o* [Instalación de librerias](url)
-o* [Objetivos](url)
-o* [Relación economica](url)
-o* [Modelos](url)
+-o* [Instalación de librerias](url)
+-o* [Objetivos](url)
+-o* [Relación economica](url)
+-o* [Modelos](url)
 
 **Instalación de librerias**
 
