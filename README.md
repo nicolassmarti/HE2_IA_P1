@@ -23,6 +23,8 @@ En la actualidad, CTBC Bank enfrenta desafíos en la optimización de su sistema
 A lo largo del proyecto, se comparan cinco modelos de Machine Learning para determinar cuál ofrece el mejor rendimiento en términos de precisión, interpretabilidad y eficiencia computacional.
 # Instalación de librerias
 
+Para ejecutar el proyecto, es necesario instalar las siguientes librerías:
+
 ```bash
 pip install -q pandas
 pip install -q numpy
@@ -39,6 +41,9 @@ pip install -q huggingface_hub
 pip install -q datasets
 pip install -q fsspec==2024.10.0
 ```
+
+> **Nota:** Se recomienda utilizar un entorno virtual para evitar conflictos de dependencias.
+
 
 
 # Objetivo
