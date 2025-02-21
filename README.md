@@ -84,5 +84,5 @@ Para garantizar una *comparación robusta*, se implementaron y evaluaron cinco m
 - Angela Aparicio
 - Marcelo Yepes
 - Andrés Ballén
--
+---
 Esta documentación pretende ofrecer una visión clara y concisa del proyecto, facilitando su uso y contribución. ¡Gracias por tu interés en este repositorio!
