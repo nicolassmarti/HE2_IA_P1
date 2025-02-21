@@ -3,16 +3,19 @@
 ¡Bienvenido a al *Proyecto de Predicción de Aceptación de Crédito*!  
 Este proyecto, desarrollado por *Chigüiros Consulting Group (CCB), utiliza modelos de **Machine Learning* para predecir la aceptación o rechazo de solicitudes de crédito. Nuestro objetivo es optimizar la evaluación de riesgos para *CTBC Bank*, mejorando la eficiencia y precisión en la aprobación de préstamos.
 
-# Descripción
+
 
 
 
 # Indice
 
+- [Descripción](url)
 - [Instalación de librerias](url)
 - [Objetivos](url)
 - [Relación economica](url)
 - [Modelos](url)
+
+# Descripción
 
 # Instalación de librerias
 
