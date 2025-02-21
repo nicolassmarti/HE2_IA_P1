@@ -10,4 +10,3 @@
 
 **Relación economica**
 
-**Resultados**
